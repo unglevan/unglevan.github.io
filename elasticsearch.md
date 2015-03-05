@@ -83,5 +83,10 @@ open http://localhost:9200/_plugin/head/
 http://www.elasticsearch.org/blog/you-complete-me/
 Next time
 
+## Search Japanese
+
+http://engineer.wantedly.com/2014/02/25/elasticsearch-at-wantedly-1.html
+Chú ý version của elasticsearch và kuromoji phải giống nhau.
+
 
 
